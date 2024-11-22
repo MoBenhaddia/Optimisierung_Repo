@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+
+# Excel-Dateien
+*.xlsm
+*.xlsx
+
+# PDF-Dateien
+*.pdf
+
+*.pyc
+
+*.adoc
+
+*.txt
+*.png
